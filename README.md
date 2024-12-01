@@ -31,7 +31,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   gh repo clone originlhibrid/claudecb
+   gh repo clone originlhibrid/claudecb or https://github.com/originlhibrid/claudecb.git
    cd claudecb
    ```
 
