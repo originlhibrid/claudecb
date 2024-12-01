@@ -2,7 +2,23 @@
 
 A modern chat interface for Claude AI models, built with Next.js and TypeScript. This project provides a clean, responsive UI for interacting with various Claude models through the Anthropic API.
 
-![Claude Chat Interface](public/preview.png)
+Upcoming features
+- ⬛Save conversations locally or to a database
+- ⬛Loading animations/typing indicators
+- ⬛Voice input/output
+- 🔃File upload support for document analysis
+- ⬛Code editor with syntax highlighting for code-related queries
+- ⬛Collapsible sidebar for saved conversations
+- ⬛Loading animations/typing indicators
+- ⬛Export chat history as PDF/Markdown
+- ⬛Pin important conversations
+
+
+- ✅ - Update Pushed 
+- 🔃 - Next Week Update
+- ⬛ - Upconming in Future 
+
+_____________________________________________________________________________________________________________________________________________________
 
 ## Prerequisites
 
